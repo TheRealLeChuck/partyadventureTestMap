@@ -1003,6 +1003,11 @@
                 {
                  "name":"game",
                  "type":"string",
+                 "value":"https:\/\/pacman.live\/play.html"
+                }, 
+                {
+                 "name":"gameOrig",
+                 "type":"string",
                  "value":"https:\/\/mimstris.surge.sh\/"
                 }],
          "type":"tilelayer",
@@ -1021,7 +1026,7 @@
                 {
                  "name":"game",
                  "type":"string",
-                 "value":"https:\/\/pacman.platzh1rsch.ch\/"
+                 "value":"https:\/\/www.webretrogames.com\/pacman-html5.php"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1038,6 +1043,11 @@
          "properties":[
                 {
                  "name":"game",
+                 "type":"string",
+                 "value":"https:\/\/funhtml5games.com\/?play=pacman"
+                }, 
+                {
+                 "name":"gameOrig",
                  "type":"string",
                  "value":"https:\/\/js13kgames.com\/games\/radius-raid\/index.html"
                 }],
@@ -1056,6 +1066,11 @@
          "properties":[
                 {
                  "name":"game",
+                 "type":"string",
+                 "value":"https:\/\/freepacman.org\/"
+                }, 
+                {
+                 "name":"gameOrig",
                  "type":"string",
                  "value":"https:\/\/dommmel.github.io\/coffee-snake\/"
                 }],
