@@ -1070,7 +1070,7 @@
          "height":60,
          "id":78,
          "name":"easteregg",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
