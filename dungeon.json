@@ -154,7 +154,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"map.json#entry_stairway"
                 }],
@@ -172,7 +172,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"bonus.json#entry_dungeon"
                 }],
