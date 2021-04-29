@@ -380,7 +380,7 @@
          "height":60,
          "id":34,
          "name":"Filter1",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"x_lowPassFilter",
@@ -426,7 +426,7 @@
          "height":60,
          "id":40,
          "name":"Filter1.5",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"x_lowPassFilter",
@@ -449,7 +449,7 @@
          "height":60,
          "id":35,
          "name":"Filter2",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"x_lowPassFilter",
