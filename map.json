@@ -1107,7 +1107,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"dungeon.json#entry_stairway"
+                 "value":"\/dungeon.json#entry_stairway"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1125,7 +1125,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"bonus.json#entry_factory"
+                 "value":"\/bonus.json#entry_factory"
                 }],
          "type":"tilelayer",
          "visible":true,

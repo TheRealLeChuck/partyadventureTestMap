@@ -95,7 +95,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"dungeon.json#entry_trapdoor"
+                 "value":"\/dungeon.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -113,7 +113,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json#entry_trapdoor"
+                 "value":"\/map.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
