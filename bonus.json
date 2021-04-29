@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":13,
  "infinite":false,
  "layers":[
@@ -95,7 +102,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/dungeon.json#entry_trapdoor"
+                 "value":".\/dungeon.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -113,7 +120,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/map.json#entry_trapdoor"
+                 "value":".\/map.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -129,14 +136,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioLoop",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
-                 "value":"mario.mp3"
+                 "value":".\/mario.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
