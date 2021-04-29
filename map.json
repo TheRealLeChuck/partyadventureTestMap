@@ -1105,7 +1105,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"dungeon.json#entry_stairway"
                 }],
@@ -1123,7 +1123,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"bonus.json#entry_factory"
                 }],

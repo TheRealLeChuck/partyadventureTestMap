@@ -93,9 +93,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"dungeon.json"
+                 "value":"dungeon.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -111,9 +111,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#entry_trapdoor"
                 }],
          "type":"tilelayer",
          "visible":true,
